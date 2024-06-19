@@ -27,7 +27,7 @@ Para clonar y ejecutar este proyecto, sigue estos pasos:
 1. Clona este repositorio:
 
    ```bash
-   git clone [https://github.com/tuusuario/tu-repositorio.git](https://github.com/Martin-Juncos/portafolio-bootstrap.git)
+   git clone https://github.com/Martin-Juncos/portafolio-bootstrap.git
    ```
 
 2. Navega al directorio del proyecto:
